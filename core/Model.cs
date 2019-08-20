@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Core
+namespace DBFill.Core
 {
     public class Model
     {

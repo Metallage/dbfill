@@ -2,7 +2,7 @@ using System;
 using System.Xml;
 using System.Xml.XPath;
 
-namespace Core
+namespace DBFill.Core
 {
     class SettingsManager
     {
